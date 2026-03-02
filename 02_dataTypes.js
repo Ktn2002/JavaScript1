@@ -1,10 +1,10 @@
 
 
-alert(3 + 4);//we are using nodejs,not browser,so alert is not defined, we will use console.log instead
+//alert(3 + 4);//we are using nodejs,not browser,so alert is not defined, we will use console.log instead
 
-console.log(3 + 3);//output:6
+//console.log(3 + 3);//output:6
 
-console.log("kshitija");
+//console.log("kshitija");
 
 // let name = "kshitija";//string datatype
 // let age = 20;//number datatype
@@ -18,4 +18,6 @@ console.log("kshitija");
 
 //object datatype//used for complex data structures like arrays,objects,function
 
-console.log(typeof "kshitija");//output:string
+//console.log(typeof "kshitija");//output:string
+
+
